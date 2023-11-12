@@ -18,8 +18,6 @@ Movies are my leisure, and cooking is my passion.
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 
-
-
 - :fireworks: I served as a Front-end Engineer at CloudProduction Limited, a Japan-based software company, where my responsibilities included web and mobile app development.
 - 👯 I’m currently open for work and employment opportunities (remote and relocation)
 - 💬 Ask me about React.js, React Native.js, Bootstrap, WordPress.
@@ -27,12 +25,7 @@ Movies are my leisure, and cooking is my passion.
 - :partying_face: Fun fact: Did you know? I find joy in exploring the realms of fashion and am a badminton enthusiast – two of my favorite pastimes!
 - :wrench: Tools - VSCode, Xcode
 
-
-
-![hasinhayder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasinhayder&theme=darcula&show_icons=true&hide_border=true&layout=compact)
-
 ### Where to find me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thestoryteller/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/hasin)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/hasin)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamima-afrin/) 
+
